@@ -1,0 +1,25 @@
+[package]
+name = "pico_cover_gb"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "Cover art downloader for GB/GBC/GBA ROMs on Pico-style launchers"
+
+[dependencies]
+anyhow = "1.0"
+clap = { version = "4.5", features = ["derive"] }
+color_quant = "1.1"
+eframe = "0.27"
+egui = "0.27"
+image = { version = "0.25", features = ["bmp", "png"] }
+indicatif = "0.17"
+num_cpus = "1.16"
+regex = "1"
+reqwest = { version = "0.12", features = ["blocking", "json"] }
+rfd = "0.14"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+thiserror = "1.0"
+tokio = { version = "1.38", features = ["full"] }
+urlencoding = "2.1"
+walkdir = "2.5"
