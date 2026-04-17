@@ -59,12 +59,14 @@
  ```bash
 cargo build --release
 
-   🙌 Credits & Acknowledgements
-Libretro – For maintaining the incredible thumbnail repository that makes this tool possible.
 
-LNH‑team – Creators of Pico Launcher, the launcher that inspired the original PicoCover.
 
-Original PicoCover by Scaletta – The NDS cover downloader that laid the groundwork for this project.
+## 🙌 **Credits & Acknowledgements**
+**Libretro** – For maintaining the incredible thumbnail repository that makes this tool possible.
 
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+**LNH‑team – Creators of Pico Launcher**, the launcher that inspired the original PicoCover.
+
+**Original PicoCover by Scaletta** – The NDS cover downloader that laid the groundwork for this project.
+
+## 📜 **License**
+This project is licensed under the **MIT License** – see the LICENSE file for details.
