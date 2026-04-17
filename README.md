@@ -53,3 +53,18 @@
 2. **Run the application**
    ```bash
    cargo run
+
+
+### Option 2: Build a standalone executable
+ ```bash
+cargo build --release
+
+   🙌 Credits & Acknowledgements
+Libretro – For maintaining the incredible thumbnail repository that makes this tool possible.
+
+LNH‑team – Creators of Pico Launcher, the launcher that inspired the original PicoCover.
+
+Original PicoCover by Scaletta – The NDS cover downloader that laid the groundwork for this project.
+
+📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
